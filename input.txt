@@ -1,0 +1,58 @@
+PrintPlaylist	F
+PrintPlaylist	R
+ReversePlaylist
+PrintPlaylist	F
+PrintPlaylist	R
+RemoveSong	Song_Z
+ReversePlaylist
+PrintPlaylist	F
+PrintPlaylist	R
+PlaySong	N
+PlaySong	P
+InsertSong	H	Song_A
+PlaySong	N
+PlaySong	N
+PlaySong	P
+InsertSong	H	Song_B
+InsertSong	H	Song_C
+InsertSong	T	Song_D
+InsertSong	T	Song_E
+InsertSong	T	Song_F
+PrintPlaylist	F
+MoveSong	B	Song_A	Song_B
+MoveSong	A	Song_D	Song_E
+PrintPlaylist	F
+PlaySong	N
+PlaySong	P
+PlaySong	P
+RemoveSong	Song_F
+PrintPlaylist	F
+PlaySong	P
+PlaySong	P
+PlaySong	P
+PlaySong	N
+PrintPlaylist	F
+PrintPlaylist	R
+ReversePlaylist
+PrintPlaylist	F
+PrintPlaylist	R
+PlaySong	N
+PlaySong	N
+PlaySong	N
+PlaySong	P
+RemoveSong	Song_A
+RemoveSong	Song_B
+PlaySong	P
+RemoveSong	Song_D
+PlaySong	P
+PrintPlaylist	F
+PrintPlaylist	R
+PlaySong	N
+RemoveSong	Song_C
+PlaySong	P
+RemoveSong	Song_E
+PlaySong	N
+PlaySong	P
+PrintPlaylist	F
+PrintPlaylist	R
+RemoveSong	Song_A

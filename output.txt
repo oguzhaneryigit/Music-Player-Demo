@@ -1,0 +1,116 @@
+No Songs To Print
+*****
+No Songs To Print
+*****
+No Songs To Print
+*****
+No Songs To Print
+*****
+No Songs To Print
+*****
+No Songs To Print
+*****
+No Songs To Play
+*****
+No Songs To Play
+*****
+Playing	Song_A
+*****
+Playing	Song_A
+*****
+Playing	Song_A
+*****
+Song_C
+Song_B
+Song_A
+Song_D
+Song_E
+Song_F
+*****
+Song_C
+Song_A
+Song_B
+Song_E
+Song_D
+Song_F
+*****
+Playing	Song_B
+*****
+Playing	Song_A
+*****
+Playing	Song_C
+*****
+Song_C
+Song_A
+Song_B
+Song_E
+Song_D
+*****
+Playing	Song_D
+*****
+Playing	Song_E
+*****
+Playing	Song_B
+*****
+Playing	Song_E
+*****
+Song_C
+Song_A
+Song_B
+Song_E
+Song_D
+*****
+Song_D
+Song_E
+Song_B
+Song_A
+Song_C
+*****
+Song_D
+Song_E
+Song_B
+Song_A
+Song_C
+*****
+Song_C
+Song_A
+Song_B
+Song_E
+Song_D
+*****
+Playing	Song_B
+*****
+Playing	Song_A
+*****
+Playing	Song_C
+*****
+Playing	Song_A
+*****
+Cannot Remove The Playing Song
+*****
+Playing	Song_E
+*****
+Playing	Song_C
+*****
+Song_E
+Song_A
+Song_C
+*****
+Song_C
+Song_A
+Song_E
+*****
+Playing	Song_E
+*****
+Playing	Song_A
+*****
+Playing	Song_A
+*****
+Playing	Song_A
+*****
+Song_A
+*****
+Song_A
+*****
+Cannot Remove The Playing Song
+*****
